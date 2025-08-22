@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [FATNASSI Rayan] 👋</h1>
+<h1 align="center">Hi there, I'm FATNASSI Rayan👋</h1>
 
 <p align="center">
 🎓 Engineering Student | 📊 Data Science & Computer Vision | 💡 AI Enthusiast  
